@@ -1,0 +1,15 @@
+{
+  "name": "addr-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chinese-address-generator": "^1.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
